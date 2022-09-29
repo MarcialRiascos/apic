@@ -23,17 +23,6 @@
         "nat": "NO"
       },
       {
-        "nombre": "MARACANÁ",
-        "zona": "EL TRIUNFO",
-        "llamadas": "3176523167",
-        "whatsapp": "3176523167",
-        "web": "https://bit.ly/3LQIMli",
-        "imagen": {
-          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/305998913_203884398663020_6803028226291365525_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=6sRpHOLmY14AX9loroV&_nc_ht=scontent.feoh2-1.fna&oh=00_AT_FDk_XHdeEwIpdMwxeZNmzb6Q4B7yhvgnNZ9u93w6SnA&oe=6339F631"
-        },
-        "nat": "NO"
-      },
-      {
         "nombre": "LA BOMBONERA",
         "zona": "LAS AMERICAS",
         "llamadas": "3137373823",
@@ -41,6 +30,28 @@
         "web": "https://bit.ly/3UHLnls",
         "imagen": {
           "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/309390917_203885448662915_4397921397697244770_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_ohc=C0jSpmB1o4EAX9TrS5H&_nc_oc=AQmLRVBTLj9lBbhs4eBfO_w-GAE4d9Te2KdGan0JhOGUECRaDCUC_MNxpFli_ch32nY&tn=AS_2AAPvUYjI9O3m&_nc_ht=scontent.feoh2-1.fna&oh=00_AT94oGU16OSCBtKJ1it8WfR-XA0ufXlQJRqopzkwW25EmA&oe=633A361F"
+        },
+        "nat": "NO"
+      },
+      {
+        "nombre": "LA SALCHIPAPA",
+        "zona": "BOMBA LA 14",
+        "llamadas": "3155753525",
+        "whatsapp": "3155753525",
+        "web": "https://bit.ly/3SkWZJA",
+        "imagen": {
+          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/306093609_203901238661336_3371050067078515013_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0debeb&_nc_ohc=j4wAusbJGVYAX_ly8Ow&tn=AS_2AAPvUYjI9O3m&_nc_ht=scontent.feoh2-1.fna&oh=00_AT-V-6klKYNQEu4P29Nmlwt51PJyp8xWRDkMkBHv9NHo4A&oe=633BBA00"
+        },
+        "nat": "NO"
+      },
+      {
+        "nombre": "MARACANÁ",
+        "zona": "EL TRIUNFO",
+        "llamadas": "3176523167",
+        "whatsapp": "3176523167",
+        "web": "https://bit.ly/3LQIMli",
+        "imagen": {
+          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/305998913_203884398663020_6803028226291365525_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=6sRpHOLmY14AX9loroV&_nc_ht=scontent.feoh2-1.fna&oh=00_AT_FDk_XHdeEwIpdMwxeZNmzb6Q4B7yhvgnNZ9u93w6SnA&oe=6339F631"
         },
         "nat": "NO"
       },
@@ -65,17 +76,7 @@
           "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/308999753_203890525329074_4794166193546527061_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0debeb&_nc_ohc=XosHANKrfVQAX9CZzVg&_nc_ht=scontent.feoh2-1.fna&oh=00_AT9nWoHh3-0c8XvAqnLuSsA9a0kdQFh4ckUZINq1abxNSg&oe=633A30D3"
         },
         "nat": "NO"
-      },
-      {
-        "nombre": "LA SALCHIPAPA",
-        "zona": "BOMBA LA 14",
-        "llamadas": "3155753525",
-        "whatsapp": "3155753525",
-        "web": "",
-        "imagen": {
-          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/306093609_203901238661336_3371050067078515013_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0debeb&_nc_ohc=j4wAusbJGVYAX_ly8Ow&tn=AS_2AAPvUYjI9O3m&_nc_ht=scontent.feoh2-1.fna&oh=00_AT-V-6klKYNQEu4P29Nmlwt51PJyp8xWRDkMkBHv9NHo4A&oe=633BBA00"
-        },
-        "nat": "NO"
       }
+     
     ]
   }

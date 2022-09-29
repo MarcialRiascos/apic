@@ -76,7 +76,17 @@
           "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/308999753_203890525329074_4794166193546527061_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0debeb&_nc_ohc=XosHANKrfVQAX9CZzVg&_nc_ht=scontent.feoh2-1.fna&oh=00_AT9nWoHh3-0c8XvAqnLuSsA9a0kdQFh4ckUZINq1abxNSg&oe=633A30D3"
         },
         "nat": "NO"
-      }
-     
+      },
+      {
+        "nombre": "LA INDEPENDENCIA",
+        "zona": "LA INDPENDENCIA",
+        "llamadas": "3216329137",
+        "whatsapp": "3216329137",
+        "web": "",
+        "imagen": {
+          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/306084312_203902571994536_8236902895543402194_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=0debeb&_nc_ohc=bkgQihO-1rsAX9xY5GK&_nc_ht=scontent.feoh2-1.fna&oh=00_AT92A_6wv5zQaz9Rtulld5HRVuZDNNRdcNi6SBt-bvKDHg&oe=633B32A1"
+        },
+        "nat": "NO"
+      } 
     ]
   }
